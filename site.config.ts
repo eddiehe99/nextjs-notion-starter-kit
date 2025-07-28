@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'eddiehe99',
   github: 'eddiehe99',
-  //   linkedin: 'fisch2',
+  linkedin: 'erheng-he-745282215/',
   mastodon: 'https://mastodon.world/@eddiehe99', // optional mastodon profile URL, provides link verification
   newsletter: 'https://paragraph.xyz/@eddiehe', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
